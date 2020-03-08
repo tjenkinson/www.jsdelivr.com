@@ -44,7 +44,7 @@
 		"rollup-plugin-babel": "^3.0.3",
 		"rollup-plugin-commonjs": "^9.1.0",
 		"rollup-plugin-json": "^2.3.0",
-		"rollup-plugin-node-resolve": "^3.0.3",
+		"rollup-plugin-node-resolve": "^5.2.0",
 		"rollup-plugin-ractive": "^2.1.0",
 		"signal-exit": "^3.0.2",
 		"srcset": "^1.0.0",
