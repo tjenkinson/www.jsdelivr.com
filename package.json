@@ -5,7 +5,7 @@
 	"private": true,
 	"dependencies": {
 		"algoliasearch": "^3.25.0",
-		"all-the-package-names": "^1.3496.0",
+		"all-the-package-names": "^1.3905.0",
 		"babel-core": "^6.26.0",
 		"babel-preset-es2015-rollup": "^3.0.0",
 		"bluebird": "^3.5.1",
