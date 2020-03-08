@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"private": true,
 	"dependencies": {
-		"algoliasearch": "^3.25.0",
+		"algoliasearch": "^4.0.3",
 		"all-the-package-names": "^1.3496.0",
 		"babel-core": "^6.26.0",
 		"babel-preset-es2015-rollup": "^3.0.0",
