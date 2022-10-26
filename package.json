@@ -39,7 +39,7 @@
 		"p-min-delay": "^2.0.0",
 		"ractive": "^0.9.13",
 		"rcu": "^0.10.3",
-		"recursive-readdir": "^2.2.2",
+		"recursive-readdir": "^2.2.3",
 		"rollup": "^0.57.1",
 		"rollup-plugin-babel": "^3.0.3",
 		"rollup-plugin-commonjs": "^9.1.0",
